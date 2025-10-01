@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    background-color: #ffffff;
+    color: #000000;
+    text-align: center;
+}
+
+.container {
+    max-width: 600px;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em; 
+    margin-bottom: 0.5em;
+}
+
+#excusa {
+    font-size: 2.5em;
+    font-weight: bold;
+}
